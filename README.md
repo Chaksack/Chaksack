@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chaksack
-- 👀 I’m interested in front-end development(vue.js) (UI/Ux Design) (flutter development)
+- 👀 I’m interested in front-end development(vue.js) (UI/Ux Design) (flutter development)(Golang)
 - 🌱 I’m currently learning cloud development
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me chakdahah@gmail.com
