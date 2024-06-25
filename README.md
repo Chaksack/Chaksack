@@ -6,7 +6,7 @@ Software Engineer || DevOps
 
 I'm a software engineer responsible for the monitoring, deployment and support of the cloud infrastructure and other cloud and DevOps solutions within the enterprise. I support multiple cloud projects and technologies, interfacing with others within the IT organisation as other internal business unit and external partners. As a software engineer i have strong level of knowledge and technical hands-on experience in multiple disciplines (cloud, security, windows, linux and network) to support a variety of operational responsibilities and the overall solutions for a complex heterogenous environment and help support a variety of operational responsibilities. I ensure confidentiality, availability and integrity of the electronic information infrastructure in support with the security mission.
 
-*   🌍  I'm based in Ghana
+*   🌍  I'm based in United Kingdom
 *   ✉️  You can contact me at [chakdahah@gmail.com](mailto:chakdahah@gmail.com)
 *   🧠  I'm learning DevSecOps
 *   🤝  I'm open to collaborating on any interesting projects### Skills<p align="left">
