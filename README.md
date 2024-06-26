@@ -1,10 +1,11 @@
 Hi 👋 My name is Chakdahah Sackey
 =================================
 
-Software Engineer || DevOps
+Technical Project Manager || Technical Lead
 ---------------------------
 
-I'm a software engineer responsible for the monitoring, deployment and support of the cloud infrastructure and other cloud and DevOps solutions within the enterprise. I support multiple cloud projects and technologies, interfacing with others within the IT organisation as other internal business unit and external partners. As a software engineer i have strong level of knowledge and technical hands-on experience in multiple disciplines (cloud, security, windows, linux and network) to support a variety of operational responsibilities and the overall solutions for a complex heterogenous environment and help support a variety of operational responsibilities. I ensure confidentiality, availability and integrity of the electronic information infrastructure in support with the security mission.
+As a Technical Product Manager, I oversee the monitoring, development, deployment, and support of various technical projects, cloud architecture, and infrastructure, as well as DevSecOps solutions. I manage multiple projects and technologies, interfacing with IT teams, internal business units, and external partners. Leveraging extensive knowledge and hands-on experience across multiple disciplines—including project management, agile methodologies, cloud computing, cybersecurity, and system administration—I deliver comprehensive solutions for complex environments.
+
 
 *   🌍  I'm based in United Kingdom
 *   ✉️  You can contact me at [chakdahah@gmail.com](mailto:chakdahah@gmail.com)
